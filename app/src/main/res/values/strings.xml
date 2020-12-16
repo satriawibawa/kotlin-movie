@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kotlin Popular Movie</string>
+    <string name="api_key">8b516ca53bb3a1dcbb955e2feec5ffc5</string>
+    <string name="poster_base_path">https://image.tmdb.org/t/p/w92</string>
+    <string name="movie_detail">Movie Detail</string>
+</resources>
